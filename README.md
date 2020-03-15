@@ -3,7 +3,12 @@ Collections of different kinds of graphs
 
 [1-PCA 3D graph](https://github.com/kikyo91/Python-Gallery/blob/master/1-PCA%203D%20graph.ipynb)
 
-![plot](https://github.com/kikyo91/Python-Gallery/blob/master/HelpPlots/1_pca_3d.pdf)
+<object data="https://github.com/kikyo91/Python-Gallery/blob/master/HelpPlots/1_pca_3d.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/kikyo91/Python-Gallery/blob/master/HelpPlots/1_pca_3d.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/kikyo91/Python-Gallery/blob/master/HelpPlots/1_pca_3d.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 [2-scatter3d](https://github.com/kikyo91/Python-Gallery/blob/master/2-scatter3d.ipynb)
 
 [3-Heatmap to represent (x,y) coordinates in a given rectangular area](https://github.com/kikyo91/Python-Gallery/blob/master/3-Heatmap%20to%20represent%20(x%2Cy)%20coordinates%20in%20a%20given%20rectangular%20area.ipynb)
